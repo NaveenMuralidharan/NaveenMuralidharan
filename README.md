@@ -1,7 +1,8 @@
 ### Hello Internet! 👋
 
-#### My background ranges from pharmaceutical process development, to managing operations and facilitating digital transformation in the insurance industry by bridging the gap between Business and IT.
-#### Ever curious and willing to learn, I have been advancing my professional development by learning software Engineering at General Assembly while simultaneously acting as the lead Business Analyst for the digital transformation of an Insurance regulatory agency. 
+#### Following my graduate studes in Microbiology at North Carolina State University, I have worked as an associate scientist in pharmaceutical process development, an operations manager for the insurance industry and as a knowledge manager for a regulatory agency. Throughout my diverse career, my interest and work has been in designing processes and tools to manage an organization's knowledge.
+
+#### Ever curious and willing to learn, I have been advancing my professional development by learning software Engineering at General Assembly while simultaneously acting as the lead Business Analyst and Knowledge Manager for the digital transformation of an Insurance regulatory agency. 
 
 - 🔭 I’m currently working on a Knowledge Management Plaform for companies of all sizes (see Alpha version pinned in repos)
 - 🌱 I’m currently learning Python, Django
