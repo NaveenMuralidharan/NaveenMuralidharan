@@ -1,6 +1,6 @@
 ### Hello Internet! 👋
 
-#### I am currently a graduate student pursuing Masters in Software development at the University of Utah. Following my graduate studes in Microbiology at North Carolina State University, I have worked as an associate scientist in pharmaceutical process development, an operations manager for the insurance industry and as a knowledge manager for a regulatory agency. Throughout my diverse career, my interest and work has been in designing processes and tools to manage an organization's knowledge.
+#### I am currently a graduate student pursuing Masters in Software development. Following my graduate studes in Microbiology at North Carolina State University, I have worked as an associate scientist in pharmaceutical process development, an operations manager for the insurance industry and as a knowledge manager for a regulatory agency. Throughout my diverse career, my interest and work has been in designing processes and tools to manage an organization's knowledge.
 
 #### Ever curious and willing to learn, I have been advancing my professional development by learning software Engineering at General Assembly while simultaneously acting as the lead Business Analyst and Knowledge Manager for the digital transformation of an Insurance regulatory agency. 
 
