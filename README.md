@@ -1,6 +1,6 @@
 ### Hello Internet! 👋
 
-#### I am currently a graduate student pursuing Masters in Software development at the University of Utah. I have 10 years of experience in business analysis, bridgining the gap between business and IT teams in small and large companies alike. 
+#### I am currently a graduate student pursuing Masters in Software development at the University of Utah. I have 10 years of experience in business analysis and SDLC, bridgining the gap between business and IT teams in small and large companies alike. 
 
 #### Skills: Wed development: HTML, CSS, JS, NodeJS, ExpressJS, NextJS, MongoDB, Python, Django, PostgreSQL, C++, Java.
 
