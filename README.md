@@ -1,13 +1,15 @@
 ### Hello Internet! 👋
 
-#### I am currently a graduate student pursuing Masters in Software development. Following my graduate studes in Microbiology at North Carolina State University, I have worked as an associate scientist in pharmaceutical process development, an operations manager for the insurance industry and as a knowledge manager for a regulatory agency. Throughout my diverse career, my interest and work has been in designing processes and tools to manage an organization's knowledge.
+#### I am currently a graduate student pursuing Masters in Software development at the University of Utah. I have 10 years of experience in business analysis, bridgining the gap between business and IT teams in small and large companies alike. 
 
-#### Ever curious and willing to learn, I have been advancing my professional development by learning software Engineering at General Assembly while simultaneously acting as the lead Business Analyst and Knowledge Manager for the digital transformation of an Insurance regulatory agency. 
+#### Skills: Wed development: HTML, CSS, JS, NodeJS, ExpressJS, NextJS, MongoDB, Python, Django, PostgreSQL, C++, Java.
 
-- 🌱 I’m currently learning Python, Django
-- 👯 I’m looking to collaborate on Insuretech, Lab Information management systems, Knowlwege Mannagement Systems
-- 💬 Ask me about Business Analysis, navigating uncertainity and ambiguity in the workplace, process development and mapping
+#### Ever curious and willing to learn, I completed a certificate in Full Stack Software Development at General Assembly in 2023. I'm furthering my knowledge through a graduate degree in software development.  
+
+- 🌱 I’m currently learning Python, Django.
+- 👯 I’m looking for paid or unpaid internships to develop my skills in software engineering.
+- 💬 Ask me about Business Analysis, navigating uncertainity and ambiguity in the workplace, process development and mapping.
 - 📫 How to reach me: naveenspec@gmail.com
-- ⚡ Fun fact: I have driven across Canada during the peak of Winter
+- ⚡ Fun fact: I have driven across Canada during the peak of Winter.
 
 
