@@ -2,7 +2,7 @@
 
 #### I am currently a graduate student pursuing Masters in Software development at the University of Utah. I have 10 years of experience in business analysis and SDLC, bridgining the gap between business and IT teams in small and large companies alike. 
 
-#### Skills: Wed development and Object oriented programming languages: HTML, CSS, JS, NodeJS, ExpressJS, NextJS, MongoDB, Python, Django, PostgreSQL, C++, Java.
+#### Skills: Web development and Object oriented programming languages: HTML, CSS, JS, NodeJS, ExpressJS, NextJS, MongoDB, Python, Django, PostgreSQL, C++, Java.
 
 #### Ever curious and willing to learn, I completed a certificate in Full Stack Software Development at General Assembly in 2023. I'm furthering my knowledge through a graduate degree in software development.  
 
