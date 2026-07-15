@@ -1,15 +1,3 @@
 ### Hello Internet! 👋
 
-#### I am currently a graduate student pursuing Masters in Software development at the University of Utah. I have 10 years of experience in business analysis and SDLC, bridgining the gap between business and IT teams in small and large companies alike. 
-
-#### Skills: Web development and Object oriented programming languages: HTML, CSS, JS, NodeJS, ExpressJS, NextJS, MongoDB, Python, Django, PostgreSQL, C++, Java.
-
-#### Ever curious and willing to learn, I completed a certificate in Full Stack Software Development at General Assembly in 2023. I'm furthering my knowledge through a graduate degree in software development.  
-
-- 🌱 I’m currently learning Python, Django.
-- 👯 I’m looking for paid or unpaid internships to develop my skills in software engineering.
-- 💬 Ask me about Business Analysis, navigating uncertainity and ambiguity in the workplace, process development and mapping.
-- 📫 How to reach me: naveenspec@gmail.com
-- ⚡ Fun fact: I have driven across Canada during the peak of Winter.
-
-
+#### Naveen is a visionary Chief Technology Officer and information security leader with a proven track record of driving large-scale digital transformations, building innovative AI platforms, and managing complex cloud infrastructure. He has executed enterprise-level software implementations (including Guidewire), managing massive data ETL pipelines, and structuring cross-functional knowledge management frameworks to optimize operational efficiency.
